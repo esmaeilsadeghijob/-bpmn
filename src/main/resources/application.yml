@@ -9,7 +9,3 @@ camunda:
       first-name: Demo
     filter:
       create: All tasks
-
-spring:
-  main:
-    show-banner: false
