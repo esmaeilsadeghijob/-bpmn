@@ -1,0 +1,15 @@
+server:
+  port: 9090
+
+camunda:
+  bpm:
+    admin-user:
+      id: Demo
+      password: Demo
+      first-name: Demo
+    filter:
+      create: All tasks
+
+spring:
+  main:
+    show-banner: false
